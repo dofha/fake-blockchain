@@ -5,7 +5,7 @@
   "repository": "git@github.com:kaszei/testing-blockchain.git",
   "license": "MIT",
   "scripts": {
-    "dev": "tsc -w src/* -outDir dist/"
+    "dev": "tsc -w"
   },
   "devDependencies": {
     "@types/node": "^16.11.7",
