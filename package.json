@@ -1,0 +1,14 @@
+{
+  "name": "testing-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kaszei/testing-blockchain.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w src/* -outDir dist/"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
+}
